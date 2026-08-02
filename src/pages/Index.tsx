@@ -78,12 +78,10 @@ const Index = () => {
             href="https://muhammedrinshidvpr-coder.github.io/rinshid-portfolio/"
             target="_blank"
             rel="noreferrer"
-            className="flex items-center gap-2 px-4 py-2 rounded-full bg-brand text-brand-foreground font-bold hover:bg-brand/90 hover:scale-[1.03] transition-all shadow-[0_0_20px_hsl(var(--brand)/0.35)] hover:shadow-[0_0_30px_hsl(var(--brand)/0.55)]"
+            className="flex items-center gap-2 px-5 py-3 rounded-xl bg-gradient-to-br from-brand to-orange-600 text-brand-foreground font-display text-xs tracking-[0.15em] uppercase font-bold hover:-translate-y-0.5 active:scale-[0.98] transition-all shadow-[0_4px_20px_hsl(var(--brand)/0.35),inset_0_1px_0_rgba(255,255,255,0.25)] hover:shadow-[0_6px_28px_hsl(var(--brand)/0.5),inset_0_1px_0_rgba(255,255,255,0.3)]"
           >
-            <span className="text-[10px] font-mono-space tracking-[0.2em] uppercase">
-              Meet the Developer
-            </span>
-            <ArrowUpRight size={14} />
+            Meet the Developer
+            <ArrowUpRight size={16} strokeWidth={2.5} />
           </a>
         </div>
       </nav>
