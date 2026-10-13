@@ -75,7 +75,7 @@ const Index = () => {
           </a>
 
           <a
-            href="https://muhammedrinshidvpr-coder.github.io/rinshid-portfolio/"
+            href="https://rinshidvp.github.io/rinshid-portfolio/"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-2 px-5 py-3 rounded-xl bg-gradient-to-br from-brand to-orange-600 text-brand-foreground font-display text-xs tracking-[0.15em] uppercase font-bold hover:-translate-y-0.5 active:scale-[0.98] transition-all shadow-[0_4px_20px_hsl(var(--brand)/0.35),inset_0_1px_0_rgba(255,255,255,0.25)] hover:shadow-[0_6px_28px_hsl(var(--brand)/0.5),inset_0_1px_0_rgba(255,255,255,0.3)]"
